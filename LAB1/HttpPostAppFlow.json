@@ -1,0 +1,1 @@
+[{"id":"d9871d0d.c6f4a","type":"function","z":"d91ff86b.b1bfd8","name":"","func":"msg.payload = \"hello\" + msg.payload.name\nreturn msg;","outputs":1,"noerr":0,"x":390,"y":140,"wires":[["e21c1dab.cc9b8","2b02653f.43961a"]]}]
