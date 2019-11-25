@@ -41,14 +41,14 @@
 
 ![](https://i.imgur.com/ocgROGk.png)
 
-3. Server端用Node-red實作，檔名為**HttPostAppFlow.txt**
+3. Server端用Node-red實作，檔名為**HttPostAppFlow.json**
 
-需將此txt檔import進node-red，步驟如下
+需將此json檔import進node-red，步驟如下
 
 * 先按右上角的三條橫線會出現這個列表，點選import->Clipboard
 ![](https://i.imgur.com/Y8Wmp6q.png)
 
-* 將**HttPostAppFlow.txt**的內容貼上格子內即可import成功
+* 將**HttPostAppFlow.json**的內容貼上格子內即可import成功
 ![](https://i.imgur.com/PhqfvHH.png)
 
 
